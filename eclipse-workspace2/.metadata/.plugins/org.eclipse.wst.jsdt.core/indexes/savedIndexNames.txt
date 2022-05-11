@@ -1,8 +1,5 @@
-INDEX VERSION 1.4+C:\Users\조명현\eclipse-workspace2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-665090614.index
-3771950115.index
-2485910272.index
-1992318237.index
-3031516907.index
-494219296.index
-4216503801.index
+INDEX VERSION 1.4+C:\Users\조명현\Documents\GitHub\myeonghyeon\eclipse-workspace2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+826665697.index
+4224671211.index
+409837933.index
+968279375.index
