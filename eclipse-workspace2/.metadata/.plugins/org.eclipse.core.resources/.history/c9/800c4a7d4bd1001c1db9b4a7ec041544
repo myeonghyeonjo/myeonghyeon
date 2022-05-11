@@ -1,0 +1,5 @@
+package com.lcomputerstudy1.testmvc.database;
+
+public class DBConnection {
+
+}

@@ -1,0 +1,5 @@
+package com.lcomputerstudy1.testmvc.vo;
+
+public class Reply {
+
+}
